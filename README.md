@@ -2,8 +2,6 @@
 
 ---
 
----
-
 ## 1. PREVIEW & 개요
 ![Untitled (14)](https://user-images.githubusercontent.com/75886211/125153708-a255bc00-e190-11eb-914e-55c422af2ee0.png)
 ![Untitled (15)](https://user-images.githubusercontent.com/75886211/125153710-a386e900-e190-11eb-975a-3ec752425a2b.png)
