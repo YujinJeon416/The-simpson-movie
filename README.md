@@ -5,7 +5,11 @@
 ---
 
 ## 1. PREVIEW & 개요
-
+![Untitled (14)](https://user-images.githubusercontent.com/75886211/125153708-a255bc00-e190-11eb-914e-55c422af2ee0.png)
+![Untitled (15)](https://user-images.githubusercontent.com/75886211/125153710-a386e900-e190-11eb-975a-3ec752425a2b.png)
+![Untitled (16)](https://user-images.githubusercontent.com/75886211/125153713-a41f7f80-e190-11eb-98e2-ced1532fdcbc.png)
+![Untitled (17)](https://user-images.githubusercontent.com/75886211/125153714-a550ac80-e190-11eb-8abe-fa2922861bc9.png)
+![Untitled (18)](https://user-images.githubusercontent.com/75886211/125153715-a681d980-e190-11eb-9a32-95f42edcaf59.png)
 
 
 [https://youtu.be/7jD9Iy9hfrI](https://youtu.be/7jD9Iy9hfrI)
